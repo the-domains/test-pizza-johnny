@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5633727
+  brandStrength: 1
+  lightness: 0.6662107
+  brandColors:
+    - '#000000'
+    - '#CB2D2F'
+    - '#FFFFFF'
+    - '#22A563'
+    - '#661718'
+  rhythmicContrast: 0.8437164
+typography_spectrum: 0.1315789
+name: Test Pizza Johnny
