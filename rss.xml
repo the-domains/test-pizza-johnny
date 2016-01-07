@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Test Pizza Johnny]]></title>
         <description><![CDATA[Test Pizza Johnny]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-pizza-johnny/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 18:32:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 18:40:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-pizza-johnny/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PRATIQUE]]></title>
+            <description><![CDATA[<article><h1>PRATIQUE</h1><p>Tout ce que vous devez savoir pour votre commande</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d097e71e-00e3-4f9c-810f-92a3d1c3ff39.png"></article>]]></description>
+            <link>https://thegrid.ai/test-pizza-johnny/pratique/index.html</link>
+            <guid isPermaLink="false">a5089a32-3949-452f-93ed-9cdfaeec82f1</guid>
+            <pubDate>Thu, 07 Jan 2016 18:40:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A propos]]></title>
             <description><![CDATA[<article><h1>A propos</h1><p>Nous sommes ravis de vous accueillir sur le tout nouveau site internet de PIZZA JOHNNY à Fréjus !
  
 PIZZA JOHNNY est une institution de la pizza à emporter et en livraison sur Fréjus St-Raphaël depuis 1992. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de666461d6ba7edc9a10bff709d81807b8a7724e.png"></article>]]></description>
-            <link>undefineda-propos/index.html</link>
+            <link>https://thegrid.ai/test-pizza-johnny/a-propos/index.html</link>
             <guid isPermaLink="false">59e3287f-4e90-4c51-907d-4759b92f99e9</guid>
             <pubDate>Thu, 07 Jan 2016 18:32:41 GMT</pubDate>
         </item>
